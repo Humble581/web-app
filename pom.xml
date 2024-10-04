@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>JOMACS Snapshot Nexus Repository </name>
-	      <url>http://54.92.183.141:8081/repository/Jomacs-release/</url>
+	      <url>http://54.211.131.115:8081/repository/Jomacs-release/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
